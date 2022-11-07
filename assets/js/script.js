@@ -41,7 +41,7 @@ var questionsList = [
          anwsers:[
              ".addText",
              ".addContent",
-             ".textConent",
+             ".textContent",
              ".text"
          ],
          correct: ".textContent",
