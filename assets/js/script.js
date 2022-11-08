@@ -15,7 +15,7 @@ var secondsLeft = 59;
 
 var questionsList = [
     {
-        question:"How do you create a function?",
+        question:"How_do_you_create_a_function?",
         anwsers:[
             "function[]",
             "function{}",
@@ -26,7 +26,7 @@ var questionsList = [
     },
  
     {
-         question:"How do you add a value to local storage?",
+         question:"How_do_you_add_a_value_to_local_storage?",
          anwsers:[
              ".setItem",
              ".getItem",
@@ -37,7 +37,7 @@ var questionsList = [
      },
  
      {
-         question:"How do you add text?",
+         question:"How_do_you_add_text?",
          anwsers:[
              ".addText",
              ".addContent",
@@ -48,7 +48,7 @@ var questionsList = [
      },
  
      {
-         question:"How do you specify an event when creating a function?",
+         question:"How_do_you_specify_an_event_when_creating_a_function?",
          anwsers:[
              "dataset.target",
              "get.target",
